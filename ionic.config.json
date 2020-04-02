@@ -1,0 +1,7 @@
+{
+  "name": "text-selection",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
